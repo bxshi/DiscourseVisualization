@@ -1,6 +1,6 @@
 This repository contains the code for extracting concept ontology from Wikipedia.
 
-The processed data can be downloaded from [Google Drive](https://drive.google.com/open?id=1Z1ImLo7BIEka5_5K3DFsgQBcxR4bpMz3).
+The processed data can be downloaded from [Google Drive](https://drive.google.com/open?id=1L0gtSvnOCy7hO5O_Jy2cMKzPYVjZ0JUn).
 
 The processed data are:
 
