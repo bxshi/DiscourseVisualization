@@ -1,5 +1,11 @@
 This repository contains the code for extracting concept ontology from Wikipedia.
 
+If you use the code or data in this repository, please consider cite
+
+```
+Baoxu Shi and Tim Weninger Visualizing the Flow of Discourse with a Concept Ontology. Proc. of Conference on the World Wide Web (WWW), Lyon, France. 2018. 
+```
+
 The processed data can be downloaded from [Google Drive](https://drive.google.com/open?id=1L0gtSvnOCy7hO5O_Jy2cMKzPYVjZ0JUn).
 
 The processed data are:
